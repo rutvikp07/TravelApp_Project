@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TravelApp">
+  <test thread-count="5" name="TravelAppTestCases">
+    <classes>
+      <class name="TravelApp.Login_TestCase"/>
+      <class name="TravelApp.View_Routes_Feedback"/>
+      <class name="TravelApp.Give_Feedback_TestCases"/>
+      <class name="TravelApp.Add_routes_Test_Cases"/>
+      <class name="TravelApp.Add_Travel_TestCases"/>
+      <class name="TravelApp.Admin_View_Routes_TestCase"/>
+      <class name="TravelApp.Admin_LogOut"/>
+      
+      
+    </classes>
+  </test> <!-- LogIn_TestCases -->
+</suite> <!-- TravelApp -->

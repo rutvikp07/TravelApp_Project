@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TravelApp]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TravelAppTestCases(failed)">
+    <classes>
+      <class name="TravelApp.Give_Feedback_TestCases">
+        <methods>
+          <include name="setUp"/>
+          <include name="down"/>
+          <include name="Inv_TooShort"/>
+          <include name="Inv_SpecialChar"/>
+        </methods>
+      </class> <!-- TravelApp.Give_Feedback_TestCases -->
+      <class name="TravelApp.Login_TestCase">
+        <methods>
+          <include name="setUp"/>
+          <include name="Special_Char"/>
+          <include name="down"/>
+          <include name="Empty"/>
+          <include name="Inv_max"/>
+        </methods>
+      </class> <!-- TravelApp.Login_TestCase -->
+      <class name="TravelApp.Add_Travel_TestCases">
+        <methods>
+          <include name="Valid_add_Travel"/>
+          <include name="down"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TravelApp.Add_Travel_TestCases -->
+    </classes>
+  </test> <!-- TravelAppTestCases(failed) -->
+</suite> <!-- Failed suite [TravelApp] -->
