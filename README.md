@@ -3,6 +3,8 @@
 ## 📌 Overview
 This capstone project demonstrates end-to-end automated testing of a web application using **Selenium** and **TestNG** in an industry-standard environment. The project simulates real-world QA processes with detailed test cases, reporting, and agile-based execution.
 
+The TravelApp could be found under Milestone 6 named "TraveApp".
+
 ---
 
 ## 🧪 Technologies Used
