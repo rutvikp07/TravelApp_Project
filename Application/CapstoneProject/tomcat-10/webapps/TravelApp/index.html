@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Travel App</title>
+    <link href="styles.css" type="text/css" rel="stylesheet">
+    <style>
+        .loginButton {
+            width: 147px;
+            height: 34px;
+            margin: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        #container {
+            text-align: center;
+            margin-top: 50px; /* Adjust the top margin as needed */
+        }
+
+        #busContainer img {
+            width: 470px;
+            height: 262px;
+        }
+
+        #infoContainer {
+            margin-top: 20px; /* Adjust the top margin as needed */
+        }
+    </style>
+    <script type="text/JavaScript">
+        function openUserPage() {
+               window.location.href = "Login.html";
+        	//  window.location.href = "User.html";
+        }
+
+        function openAdminLoginPage() {
+            window.location.href = "AdminLogin.html";
+        }
+    </script>
+</head>
+
+<body onload="MM_preloadImages('ej/GreenBus.jpg','ej/RedBus.jpg','ej/EasyJourney1.gif',1)">
+    <div id="container">
+        <div>
+            <button class="loginButton" onclick="openUserPage()">User Login</button>
+            <button class="loginButton" onclick="openAdminLoginPage()">Admin Login</button>
+        </div>
+
+        <div id="busContainer">
+            <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','ej/SkyBluePoshBus.jpg',1)">
+                <img src="ej/RedBus.jpg" name="Image5" border="0" id="Image5" />
+            </a>
+        </div>
+
+        <div id="infoContainer">
+            <br />
+            <h4>Welcome to <font color="#EE0000"> "Travel App"</font></h4>
+            <h5>Online bus ticket reservation.</h5>
+            <h5>Travel Features</h5>
+            <ul>
+                <li>Book Bus tickets to more than 200 cities in Canada.</li>
+                <!-- Other list items -->
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+
+

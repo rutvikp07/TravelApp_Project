@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>User options</title>
+</head>
+
+<body>
+<p>
+
+<!-- Button for button1.swf -->
+<button type="button" onclick="OpenPage('VR.jsp')">View Routes</button>
+
+</p>
+
+<p>
+<button type="button" onclick="OpenPage('SearchBus.jsp')">Book Tickets</button>
+</p>
+
+<p>
+<button type="button" onclick="OpenPage('CancelTicket_S1.jsp')">Cancel Tickets</button>
+</p>
+
+<p>
+<button type="button" onclick="OpenPage('Feedback.jsp')">Give Feedback</button>
+</p>
+
+<p>
+<button type="button" onclick="OpenPage('ViewTestimonials.jsp')">View Feedback</button>
+</p>
+
+
+<script>
+    function OpenPage(targetPage) {
+        // Add your logic here to handle the button click
+        // For example, you might want to redirect to the specified page
+    
+    	window.parent.frames['tgt'].location.href = targetPage;	 
+        //  getUrl("VR.jsp", "tgt");
+    	
+
+        // window.location.href = targetPage;
+        // Alternatively, if you want to do something else, modify this function accordingly
+    }
+</script>
+
+
+
+</body>
+</html>

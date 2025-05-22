@@ -1,0 +1,28 @@
+<html>
+<body>
+
+<h1>Please tell me about yourself</h1>
+
+<form action="SimpleFormHandler.jsp" method="get">
+
+Name: <input type="text" name="firstName">
+  <input type="text" name="lastName"><br>
+Gender:
+  <input type="radio" checked name="gender" value="male">Male
+  <input type="radio" name="gender" value="female">Female
+<p>
+Which tree best describes your personality:
+<select name="Tree">
+  <option value="Maple">Maple</option> 
+  <option value="Elm">Elm</option> 
+  <option value="Pine" selected>Pine</option> 
+  <option value="Willow">Willow</option> 
+  <option value="Cedar">Cedar</option> 
+  <option value="Sumac">Sumac</option> 
+  <option value="Elderberry">Elderberry</option> 
+</select>
+<br>
+<input type="submit">
+</form>
+</body>
+</html>

@@ -1,0 +1,79 @@
+09-Aug-2024 16:03:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.27
+09-Aug-2024 16:03:39.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\conf\logging.properties
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Aug-2024 16:03:39.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:/tools/glowroot/glowroot.jar
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+09-Aug-2024 16:03:39.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\temp
+09-Aug-2024 16:03:40.007 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Python310;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Android;C:\Windows\System32;C:\Program Files\Git\cmd;E:\Downloads\apache-maven-3.9.3-bin\apache-maven-3.9.3\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-21\bin;D:\apache-maven-3.9.3\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Rutvik Patel\AppData\Local\Microsoft\WindowsApps;C:\Users\Rutvik Patel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\Python310;C:\Users\Rutvik Patel\AppData\Local\Programs\Hyper\resources\bin;C:\Users\Rutvik Patel\AppData\Local\GitHubDesktop\bin;C:\Users\Rutvik Patel\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Rutvik Patel\AppData\Local\Programs\Python\Python311;C:\Users\Rutvik Patel\AppData\Roaming\npm;E:\Downloads\apache-maven-3.9.3-bin\apache-maven-3.9.3\bin;;.]
+09-Aug-2024 16:03:40.618 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Aug-2024 16:03:40.667 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1523] milliseconds
+09-Aug-2024 16:03:40.918 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Aug-2024 16:03:40.918 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+09-Aug-2024 16:03:41.016 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\TravelApp.war]
+09-Aug-2024 16:03:42.792 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:42.986 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\TravelApp.war] has finished in [1,966] ms
+09-Aug-2024 16:03:42.991 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\attic2]
+09-Aug-2024 16:03:43.623 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:43.631 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\attic2] has finished in [639] ms
+09-Aug-2024 16:03:43.632 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\docs]
+09-Aug-2024 16:03:44.274 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:44.282 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\docs] has finished in [650] ms
+09-Aug-2024 16:03:44.282 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\examples]
+09-Aug-2024 16:03:47.575 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:47.797 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\examples] has finished in [3,514] ms
+09-Aug-2024 16:03:47.798 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\host-manager]
+09-Aug-2024 16:03:48.477 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:48.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\host-manager] has finished in [692] ms
+09-Aug-2024 16:03:48.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\manager]
+09-Aug-2024 16:03:49.279 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:49.286 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\manager] has finished in [795] ms
+09-Aug-2024 16:03:49.287 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\ROOT]
+09-Aug-2024 16:03:49.838 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2024 16:03:49.842 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\ROOT] has finished in [555] ms
+09-Aug-2024 16:03:49.857 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Aug-2024 16:03:49.895 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9221] milliseconds
+09-Aug-2024 18:36:43.335 INFO [http-nio-8080-exec-3] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in the request target [/TravelApp/Feedback.jsp?message=One^of%the ]. The valid characters are defined in RFC 7230 and RFC 3986
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:494)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
+09-Aug-2024 18:39:24.774 INFO [http-nio-8080-exec-1] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in the request target [/TravelApp/Feedback.jsp?message=One^of%the ]. The valid characters are defined in RFC 7230 and RFC 3986
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:494)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1583)

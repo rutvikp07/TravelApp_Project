@@ -1,0 +1,76 @@
+19-Jul-2024 13:45:02.613 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.27
+19-Jul-2024 13:45:02.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+19-Jul-2024 13:45:02.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+19-Jul-2024 13:45:02.623 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+19-Jul-2024 13:45:02.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Jul-2024 13:45:02.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Jul-2024 13:45:02.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+19-Jul-2024 13:45:02.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+19-Jul-2024 13:45:02.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Jul-2024 13:45:02.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+19-Jul-2024 13:45:02.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Jul-2024 13:45:02.626 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\conf\logging.properties
+19-Jul-2024 13:45:02.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jul-2024 13:45:02.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jul-2024 13:45:02.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jul-2024 13:45:02.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:/tools/glowroot/glowroot.jar
+19-Jul-2024 13:45:02.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Jul-2024 13:45:02.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+19-Jul-2024 13:45:02.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10
+19-Jul-2024 13:45:02.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\temp
+19-Jul-2024 13:45:02.644 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Python310;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Android;C:\Windows\System32;C:\Program Files\Git\cmd;E:\Downloads\apache-maven-3.9.3-bin\apache-maven-3.9.3\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-21\bin;D:\apache-maven-3.9.3\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Rutvik Patel\AppData\Local\Microsoft\WindowsApps;C:\Users\Rutvik Patel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\Python310;C:\Users\Rutvik Patel\AppData\Local\Programs\Hyper\resources\bin;C:\Users\Rutvik Patel\AppData\Local\GitHubDesktop\bin;C:\Users\Rutvik Patel\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Rutvik Patel\AppData\Local\Programs\Python\Python311;C:\Users\Rutvik Patel\AppData\Roaming\npm;E:\Downloads\apache-maven-3.9.3-bin\apache-maven-3.9.3\bin;;.]
+19-Jul-2024 13:45:03.052 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Jul-2024 13:45:03.064 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1055)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:556)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1045)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:747)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:769)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:305)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:246)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:201)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1192)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1205)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:583)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:79)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1052)
+		... 11 more
+19-Jul-2024 13:45:03.068 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [999] milliseconds
+19-Jul-2024 13:45:03.259 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Jul-2024 13:45:03.259 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+19-Jul-2024 13:45:03.346 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\TravelApp.war]
+19-Jul-2024 13:45:04.529 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:04.666 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\TravelApp.war] has finished in [1,317] ms
+19-Jul-2024 13:45:04.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\docs]
+19-Jul-2024 13:45:05.023 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:05.028 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\docs] has finished in [359] ms
+19-Jul-2024 13:45:05.029 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\examples]
+19-Jul-2024 13:45:06.303 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:06.428 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\examples] has finished in [1,399] ms
+19-Jul-2024 13:45:06.429 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\host-manager]
+19-Jul-2024 13:45:06.864 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:06.876 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\host-manager] has finished in [446] ms
+19-Jul-2024 13:45:06.876 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\manager]
+19-Jul-2024 13:45:07.271 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:07.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\manager] has finished in [399] ms
+19-Jul-2024 13:45:07.276 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\ROOT]
+19-Jul-2024 13:45:07.611 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Jul-2024 13:45:07.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Fanshawe\Sem 2\Capstone Project\TravelApp\CapstoneProject\tomcat-10\webapps\ROOT] has finished in [339] ms
+19-Jul-2024 13:45:07.626 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4554] milliseconds
